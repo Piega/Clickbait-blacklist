@@ -1,2 +1,2 @@
-# Clickbait-it-blacklist
-italian clickbait site blacklist
+# Clickbait-blacklist
+clickbait site blacklist
