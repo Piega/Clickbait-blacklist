@@ -1,2 +1,2 @@
 # Clickbait-blacklist
-clickbait site blacklist
+clickbait and fake news sites blacklist
